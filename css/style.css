@@ -1,0 +1,29 @@
+body{
+  background-color:#eaf6f6;
+
+}
+.flash{
+  border-radius: 100%;
+}
+h1{
+  font-family: system-ui;
+  color:#66BFBF
+}
+h3{
+  font-family: Georgia, serif;
+  color:#66BFBF
+}
+h2{
+  font-family: Georgia, serif;
+  color:#66BFBF
+}
+
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+ border-color: grey;
+  border-width:5px;
+  width:5%;
+}

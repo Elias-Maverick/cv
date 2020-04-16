@@ -7,17 +7,19 @@ body{
 }
 h1{
   font-family: system-ui;
-  color:#66BFBF
+  color:#66BFBF;
 }
 h3{
   font-family: Georgia, serif;
-  color:#66BFBF
+  color:#66BFBF;
 }
 h2{
   font-family: Georgia, serif;
-  color:#66BFBF
+  color:#66BFBF;
 }
-
+label{
+  color:#454553;
+}
 
 hr{
 
